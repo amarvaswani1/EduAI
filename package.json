@@ -1,0 +1,19 @@
+{
+  "name": "eduai-academic-workspace",
+  "version": "1.0.0",
+  "description": "EduAI - Academic Task Management, Priority Deadlines, Progress Tracking, and AI Study Suite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node database.js"
+  },
+  "keywords": [
+    "student-tasks",
+    "deadline-tracker",
+    "academic-management",
+    "study-planner",
+    "priority-matrix"
+  ],
+  "author": "EduAI Team",
+  "license": "MIT"
+}
